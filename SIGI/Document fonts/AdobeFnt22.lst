@@ -1,5 +1,5 @@
 %!Adobe-FontList 1.22
-%Locale:0x80a
+%Locale:0xc0a
 
 %BeginFont
 Handler:DirectoryHandler
@@ -11,12 +11,12 @@ FullName:Arial Rounded MT Bold
 MenuName:Arial Rounded MT Bold
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:C:\Users\JHON\Downloads\SIGIR\SIGI\Document fonts\ARLRDBD.TTF
+OutlineFileName:C:\Users\sistemas\Downloads\manuales\SIGI\Document fonts\ARLRDBD.TTF
 DataFormat:sfntData
 hasSVG:no
 VariableFontType:NonVariableFont
 FileLength:45260
-FileModTime:1620875588
+FileModTime:1577379178
 WeightClass:400
 WidthClass:5
 AngleClass:0
@@ -34,14 +34,14 @@ FullName:Minion Pro
 MenuName:Minion Pro
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:C:\Users\JHON\Downloads\SIGIR\SIGI\Document fonts\MinionPro-Regular.otf
+OutlineFileName:C:\Users\sistemas\Downloads\manuales\SIGI\Document fonts\MinionPro-Regular.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
 hasSVG:no
 VariableFontType:NonVariableFont
 FileLength:218640
-FileModTime:1620875588
+FileModTime:1511492724
 WeightClass:400
 WidthClass:5
 AngleClass:0
